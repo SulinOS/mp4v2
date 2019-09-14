@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/493/releases/2.0.0
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/492/releases/2.0.0/COPYING
+END
+CHANGES.logging
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/492/releases/2.0.0/CHANGES.logging
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/492/releases/2.0.0/README
+END
+GNUmakefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/492/releases/2.0.0/GNUmakefile.am
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/492/releases/2.0.0/configure.ac
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/492/releases/2.0.0/INSTALL
+END

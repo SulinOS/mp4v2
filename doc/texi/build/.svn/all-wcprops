@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/492/releases/2.0.0/doc/texi/build
+END
+process.extract.texi
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/492/releases/2.0.0/doc/texi/build/process.extract.texi
+END
+platform.common.bundled.texi
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/492/releases/2.0.0/doc/texi/build/platform.common.bundled.texi
+END
+platform.common.conf.bi.texi
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/492/releases/2.0.0/doc/texi/build/platform.common.conf.bi.texi
+END
+process.google.texi
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/492/releases/2.0.0/doc/texi/build/process.google.texi
+END
+process.bootstrap.texi
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/492/releases/2.0.0/doc/texi/build/process.bootstrap.texi
+END
+platform.osx.texi
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/492/releases/2.0.0/doc/texi/build/platform.osx.texi
+END
+platform.freebsd.texi
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/492/releases/2.0.0/doc/texi/build/platform.freebsd.texi
+END
+process.configure.texi
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/492/releases/2.0.0/doc/texi/build/process.configure.texi
+END
+platform.solaris.texi
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/492/releases/2.0.0/doc/texi/build/platform.solaris.texi
+END
+commands.texi
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/492/releases/2.0.0/doc/texi/build/commands.texi
+END
+overview.texi
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/492/releases/2.0.0/doc/texi/build/overview.texi
+END
+platforms.texi
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/492/releases/2.0.0/doc/texi/build/platforms.texi
+END
+process.build.texi
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/492/releases/2.0.0/doc/texi/build/process.build.texi
+END
+platform.windows.texi
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/492/releases/2.0.0/doc/texi/build/platform.windows.texi
+END
+process.dist.texi
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/492/releases/2.0.0/doc/texi/build/process.dist.texi
+END
+platform.linux.texi
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/492/releases/2.0.0/doc/texi/build/platform.linux.texi
+END
+process.doc.texi
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/492/releases/2.0.0/doc/texi/build/process.doc.texi
+END
+process.checkout.texi
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/492/releases/2.0.0/doc/texi/build/process.checkout.texi
+END
+platform.common.conf.default.texi
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/492/releases/2.0.0/doc/texi/build/platform.common.conf.default.texi
+END
+platform.cygwin.texi
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/492/releases/2.0.0/doc/texi/build/platform.cygwin.texi
+END
+process.install.texi
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/492/releases/2.0.0/doc/texi/build/process.install.texi
+END

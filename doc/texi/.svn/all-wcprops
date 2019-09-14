@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/492/releases/2.0.0/doc/texi
+END
+Documentation.texi
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/492/releases/2.0.0/doc/texi/Documentation.texi
+END
+ReleaseNotes.texi
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/492/releases/2.0.0/doc/texi/ReleaseNotes.texi
+END
+ToolGuide.texi
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/492/releases/2.0.0/doc/texi/ToolGuide.texi
+END
+BuildRepository.texi
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/492/releases/2.0.0/doc/texi/BuildRepository.texi
+END
+BuildSource.texi
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/492/releases/2.0.0/doc/texi/BuildSource.texi
+END
+Authors.texi
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/492/releases/2.0.0/doc/texi/Authors.texi
+END

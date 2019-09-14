@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/492/releases/2.0.0/maintainer
+END
+HOWTO-TEST.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/492/releases/2.0.0/maintainer/HOWTO-TEST.txt
+END
+HOWTO-RELEASE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/492/releases/2.0.0/maintainer/HOWTO-RELEASE.txt
+END
+INTERNALS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/492/releases/2.0.0/maintainer/INTERNALS.txt
+END
+NAMESPACES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/492/releases/2.0.0/maintainer/NAMESPACES.txt
+END
+SOURCE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/492/releases/2.0.0/maintainer/SOURCE.txt
+END
+HOWTO-ADD_SOURCE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/492/releases/2.0.0/maintainer/HOWTO-ADD_SOURCE.txt
+END
+HOWTO-AUTOTOOLS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/492/releases/2.0.0/maintainer/HOWTO-AUTOTOOLS.txt
+END
+LIBPLATFORM.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/492/releases/2.0.0/maintainer/LIBPLATFORM.txt
+END
